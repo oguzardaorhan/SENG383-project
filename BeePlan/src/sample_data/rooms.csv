@@ -1,0 +1,5 @@
+room_id,room_name,room_type,capacity
+R101,Room 101,classroom,60
+R102,Room 102,classroom,45
+LAB1,Lab 1,lab,40
+LAB2,Lab 2,lab,40

@@ -1,0 +1,7 @@
+course_code,course_name,year,kind,instructor_id,room_type,capacity_required,prereq_theory_code
+CENG101,Intro to Programming,1,theory,I1,classroom,0,
+CENG101L,Intro to Programming Lab,1,lab,I1,lab,40,CENG101
+MATH101,Calculus I,1,theory,I2,classroom,0,
+CENG201,Data Structures,2,theory,I3,classroom,0,
+CENG201L,Data Structures Lab,2,lab,I3,lab,40,CENG201
+SENG301,Software Engineering,3,theory,I4,classroom,0,
