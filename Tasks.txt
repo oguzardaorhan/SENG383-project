@@ -1,0 +1,7 @@
+Clean your room|Organize toys|2025-11-13|20|Completed
+Do homework|Math exercises|2025-11-13|30|Completed
+Kitap|20 sayfa kitap okunacak|2025-12-22|10|Completed
+Kitap 2|50 sayfa kitap oku|2025-12-22|10|Completed
+Odanı Topla||2025-12-22|10|Completed
+Kahvaltı hazırlamak||2025-12-22|10|Completed
+Ödevleri bitir||2025-12-22|10|Completed
